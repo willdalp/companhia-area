@@ -3,4 +3,4 @@ Repositório destinado para o trabalho de engenharia de software 2 que consiste 
 
 - [Prototipação das telas](https://www.figma.com/file/EawV0t4Uik3ItfsFJfE5tX/Untitled?type=design&node-id=0%3A1&mode=design&t=aO8T8BqpWqe2IDzi-1)
 
-![image](https://github.com/willdalp/Trabalho-Engenharia-de-Software-2/assets/80592079/e1fd0eeb-ff7d-4db0-a036-3de0a2558aa5)
+![image](https://github.com/willdalp/sistema-gestao-de-operacoes-de-companhias-aereas/assets/80592079/4c2814d8-c229-40a9-a1db-f452ee5f5cc6)
